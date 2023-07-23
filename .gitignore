@@ -1,0 +1,9 @@
+dataset/
+__pycache__/
+models/
+outputs/
+*.csv
+*.txt
+Rakefile
+lightning_logs/
+models/
